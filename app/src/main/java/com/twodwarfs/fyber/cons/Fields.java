@@ -1,7 +1,7 @@
 package com.twodwarfs.fyber.cons;
 
 /**
- * Created by Aleksandar Balalovski on 20.11.15.
+ * Created by Aleksandar Balalovski on 03.12.15.
  */
 
 public class Fields {

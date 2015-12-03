@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 import com.twodwarfs.fyber.cons.Fields;
 
 /**
- * Created by Aleksandar Balalovski Balalovski on 20.11.15.
+ * Created by Aleksandar Balalovski Balalovski on 03.12.15.
  */
 
 public class Offer extends BaseModel {

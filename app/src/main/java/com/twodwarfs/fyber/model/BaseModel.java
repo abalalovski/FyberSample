@@ -1,7 +1,7 @@
 package com.twodwarfs.fyber.model;
 
 /**
- * Created by Aleksandar Balalovski Balalovski on 20.11.15.
+ * Created by Aleksandar Balalovski Balalovski on 03.12.15.
  *
  * Base abstract model that others inherit.
  * Generally I am making this one implement Parcelable so that other subclasses

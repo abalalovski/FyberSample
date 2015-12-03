@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Aleksandar Balalovski on 20.11.15.
+ * Created by Aleksandar Balalovski on 03.12.15.
  */
 public class OffersWrapper extends BaseModel {
 
